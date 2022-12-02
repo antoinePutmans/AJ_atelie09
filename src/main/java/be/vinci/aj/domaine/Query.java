@@ -6,6 +6,6 @@ public interface Query {
     String getUrl();
 
     public enum QueryMethod {
-        GET, POST;
+        GET , POST;
     }
 }
